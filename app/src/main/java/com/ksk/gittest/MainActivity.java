@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //8:31
         //8:33 kdw
+        //2016_11_14 kdw asdasdasdasd
         //8:37
+
     }
 }
