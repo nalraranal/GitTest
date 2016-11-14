@@ -13,6 +13,12 @@ public class MainActivity extends AppCompatActivity {
         //8:33 kdw
         //2016_11_14 kdw asdasdasdasd
         //8:37
-
     }
+
+    public void aps() {
+        int a = 1;
+        int b = 2;
+        System.out.println(a+b);
+    }
+
 }
